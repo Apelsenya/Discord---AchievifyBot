@@ -3,8 +3,7 @@ Discord AchievifyBot
 
 _______________________
 Read first:
-Terms of Service
-Privacy Policy
+Terms of Service & Privacy Policy
 _______________________
 When done reading here is the link to AchievifyBot:
 
